@@ -1,4 +1,4 @@
-# Functional Programming (ECS713P) - Group Project
+
 
 The purpose of the application is to fetch all the movies & TV show data from the TMDB database using APIs and stores them into a SQLite database.
 
